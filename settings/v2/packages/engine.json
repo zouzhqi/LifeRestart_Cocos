@@ -90,17 +90,18 @@
       }
     },
     "includeModules": [
+      "2d",
+      "audio",
       "base",
       "gfx-webgl",
-      "2d",
-      "ui",
       "intersection-2d",
-      "profiler",
+      "marionette",
       "particle-2d",
-      "audio",
+      "profiler",
+      "tween",
+      "ui",
       "video",
-      "webview",
-      "tween"
+      "webview"
     ],
     "noDeprecatedFeatures": {
       "value": false,
